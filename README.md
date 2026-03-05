@@ -1,7 +1,7 @@
 # WatchList
 
-WatchList is a personal media tracker for movies, TV shows, and books.  
-It is built for people who want one place to log what they watched or read, keep quick notes, and find things later without digging through multiple apps.
+WatchList is an iOS app for tracking movies, TV shows, and books.  
+It is built for people who want one place to log what they watched or read, keep notes, and find entries later without jumping between multiple apps.
 
 ## Why WatchList
 
@@ -17,9 +17,7 @@ Most trackers are great at one format and awkward for everything else. WatchList
 
 - `Library` tab with type filters, genre filters, and search
 - `Calendar` view that highlights days with entries
-- `Add` tab with:
-  - Manual entry for all media types
-  - Open Library search for books
+- `Add` tab with manual entry for all media types
 - `History` view grouped by type and month
 - Detail screen for editing progress, genres, dates, notes, and external links
 - Light, dark, or system appearance support
@@ -28,15 +26,14 @@ Most trackers are great at one format and awkward for everything else. WatchList
 
 - SwiftUI for the interface
 - SwiftData for local persistence
-- Open Library API for book search
 - Native Apple frameworks only (no third-party dependency setup required)
 
-## Getting Started
+## Run the App
 
-1. Clone this repository.
-2. Open `WatchList.xcodeproj` in Xcode.
-3. Select the `WatchList` scheme.
-4. Run on an iOS simulator or device.
+1. Open `WatchList.xcodeproj` in Xcode.
+2. Select the `WatchList` scheme.
+3. Choose an iPhone simulator (or a connected iPhone).
+4. Press Run.
 
 ## Project Status
 
