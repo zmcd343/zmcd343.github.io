@@ -28,18 +28,24 @@ Most trackers are great at one format and awkward for everything else. WatchList
 - SwiftData for local persistence
 - Native Apple frameworks only (no third-party dependency setup required)
 
-## Run the App
+## Download the App
 
-1. Open `WatchList.xcodeproj` in Xcode.
-2. Select the `WatchList` scheme.
-3. Choose an iPhone simulator (or a connected iPhone).
-4. Press Run.
+Download **WatchList** from the Apple App Store on your iPhone or iPad.
+
+1. Open the App Store.
+2. Search for `WatchList`.
+3. Tap **Get** to download and install the app.
+
+## Privacy Policy
+
+WatchList does not collect personal data. Data you enter stays on your device, and iCloud sync is not supported. At no future time will these practices change. 
+
+
+## Support Contact
+
+**Zachary McDaniel**  
+Email: zmcdani@purdue.edu
 
 ## Project Status
 
 Active and evolving. New UX improvements and media metadata enhancements are planned.
-
-## Contact
-
-**Zachary McDaniel**  
-Email: zmcdani@purdue.edu
